@@ -1,0 +1,49 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+    padding: 0px;
+  background-image: url(bg.png);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+}
+
+p{
+	color:black;
+}
+h1, h2 {
+	color:#347235;
+}
+
+h2 {
+	font-size: 17px;
+}
+a:link {
+    color:#008080;
+}
+a:visited{
+    color:#008080;
+}
+a:hover{
+    color:#008080;
+}
+a:active{
+    color:#008080;
+}
+div{
+    width: 850px;
+    background-color: white;
+    padding: 10px;
+    margin: 0px auto 0px auto;
+    display: block;
+}
+img{
+    float: right;
+border: 1px solid;
+margin: 5px;
+}
+hr{
+    width: 60%;
+}
+i{
+ font-size: 16px;
+}
